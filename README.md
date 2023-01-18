@@ -1,4 +1,4 @@
-## Projeto desenvolvido com o intuito de gerenciar um sistema de filas com senhas e chamados em um painel;
+## Projeto desenvolvido com o intuito de gerenciar um sistema de filas com senhas em um painel;
 
 Em que consite este projeto:
 
