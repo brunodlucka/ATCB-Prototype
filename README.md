@@ -1,4 +1,4 @@
-# Gerenciador defilas de atendimento
+# Gerenciador de filas de atendimento
 ## Sobre   
 Sistema Desenvolvido com o intuito de gerenciar a recepção e atendimendo dos profissionais de enfermagem do
 Conselho Regional de Enfermagem de Pernambuco
@@ -12,8 +12,3 @@ Conselho Regional de Enfermagem de Pernambuco
 - **Python**
 - **MySQL**
 ---
-
-## Demonstração
-   
-
-Acesse o projeto clicando [aqui]().
