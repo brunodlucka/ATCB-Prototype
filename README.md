@@ -1,9 +1,11 @@
-# Gerenciador de filas de atendimento
-## Sobre   
-Sistema Desenvolvido com o intuito de gerenciar a recepção e atendimendo dos profissionais de enfermagem do
-Conselho Regional de Enfermagem de Pernambuco
+## Projeto para gerenciar um sistema de filas com senhas e chamados em um painel;
 
----
+Em que consite este projeto:
+
+- Testatando algumas tecnologias e formatos de layout para decidir em qual e como construir o projeto
+```
+$ git clone 
+```
 
 ## Tecnologias e ferramentas utilizadas
 - **HTML5**
@@ -12,3 +14,4 @@ Conselho Regional de Enfermagem de Pernambuco
 - **Python**
 - **MySQL**
 ---
+
